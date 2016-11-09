@@ -1,0 +1,8 @@
+[mail]
+Host =   "xxx.mail.com"
+Port  = 25
+From   = "yyy@mail.com"
+To   = ["zzz@mail.com","qqq@mail.com"]
+Subject = "Some subject"
+Body = "/tmp/body"
+Attach = "/tmp/attach"
